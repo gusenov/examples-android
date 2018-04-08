@@ -1,1 +1,2 @@
 - [Проект Android Studio с одной пустой активностью](Empty-Activity/)
+- [Программное создание интерфейса с использованием LinearLayout и LinearLayout.LayoutParams](Create-User-Interface-Programmatically/)
