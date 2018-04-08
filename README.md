@@ -1,1 +1,1 @@
- 
+- [Проект Android Studio с одной пустой активностью](Empty-Activity/)
