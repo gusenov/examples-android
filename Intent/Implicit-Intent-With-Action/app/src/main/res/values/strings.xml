@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Неявный Intent</string>
+    <string name="title_activity_receive_message">Второй экран</string>
+</resources>
