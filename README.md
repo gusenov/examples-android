@@ -2,3 +2,4 @@
 - [Программное создание интерфейса с использованием LinearLayout и LinearLayout.LayoutParams](Create-User-Interface-Programmatically/)
 - [Создание интерфейсных элементов программно, используя описание этих элементов из XML-файлов](Layout-Inflater/)
 - [Явный и неявный Intent](Intent/)
+- [Вызов системных служб](Show-URI/)
